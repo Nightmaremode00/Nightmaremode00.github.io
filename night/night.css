@@ -136,7 +136,7 @@
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(dpadnight.png);
+    background: url(facenight.png);
 }
 
 .ds4 .button.pressed {
@@ -208,7 +208,7 @@
 }
 
 .ds4 .face {
-    background: url(facenight.png);
+    background: url(dpadnight.png);
     position: absolute;
 }
 
