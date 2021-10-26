@@ -203,11 +203,11 @@ background-position: 0 -70px;
 }
 
 .ds4 .stick.pressed.left {
-    background-position-x: -192px;
+    background-position-x: -191px;
 }
 
 .ds4 .stick.pressed.right {
-    background-position-x: -288px;
+    background-position-x: -287px;
 }
 
 .ds4 .stick.left {
